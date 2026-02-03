@@ -1,0 +1,1 @@
+Scripts Python para limpar, transformar e padronizar dados de tabela nutricional brasileira (TACO), preparando-os para importação otimizada no MongoDB. O foco é resolver problemas comuns em datasets reais: tipos de dados mistos, nomes de colunas inconsistentes e formatação inadequada para bancos NoSQL.
